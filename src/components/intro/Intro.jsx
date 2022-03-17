@@ -25,14 +25,14 @@ export default function Intro() {
       <div className="right">
         <div className="wrapper">
           <h2>
-            Hi There, 
+            Hi There
             <span style={{ height: "20px", width: "20px" }}>
               <img
                 style={{ height: "30px" }}
                 src="https://twemoji.maxcdn.com/2/72x72/1f44b.png"
                 alt=""
               />
-            </span> I'm{" "}
+            </span> , I'm{" "}
           </h2>
           <h1 className="my-name"> Vijayaprakash</h1>
           <h3>
