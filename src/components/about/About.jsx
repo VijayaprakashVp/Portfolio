@@ -162,6 +162,15 @@ export default function About() {
               <div className="name">GIT</div>
             </div>
           </div>
+
+          <div className="icons">
+            <div className="mainCO">
+              <div className="iconContainer">
+                <img src={"assets/github.png"} alt="" />
+              </div>
+              <div className="name">GIT</div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
