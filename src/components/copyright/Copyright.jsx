@@ -6,7 +6,7 @@ export default function Copyright() {
     <div>
       <div className="copy">
         <p>
-          Created By <span>Vijayaprakash</span> | © 2022 All rights reserved
+          Created By <span>Vijayaprakash (>‿◠)✌ </span>
         </p>
       </div>
     </div>

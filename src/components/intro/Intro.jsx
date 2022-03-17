@@ -25,16 +25,16 @@ export default function Intro() {
       <div className="right">
         <div className="wrapper">
           <h2>
-            Hi There, I'm{" "}
+            Hi There{" "}
             <span style={{ height: "20px", width: "20px" }}>
               <img
                 style={{ height: "30px" }}
                 src="https://twemoji.maxcdn.com/2/72x72/1f44b.png"
                 alt=""
               />
-            </span>
+            </span> , I'm{" "}
           </h2>
-          <h1 className="my-name">Vijayaprakash</h1>
+          <h1 className="my-name"> Vijayaprakash</h1>
           <h3>
             a <span ref={textRef}></span>
           </h3>
