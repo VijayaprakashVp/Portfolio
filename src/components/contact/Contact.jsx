@@ -24,8 +24,8 @@ export default function Contact() {
 
             <div className="contact_icon">
               <div className="call">
-                <div>Call me @ :</div>
-                <p>7402038750</p>
+                <div>Ping me :</div>
+                <p>+91 7402038750</p>
               </div>
               <div className="call">
                 <div>Mail @ :</div>
