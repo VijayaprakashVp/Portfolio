@@ -25,7 +25,7 @@ export default function Intro() {
       <div className="right">
         <div className="wrapper">
           <h2>
-            Hi There 
+            Hi There{" "}
             <span style={{ height: "20px", width: "20px" }}>
               <img
                 style={{ height: "30px" }}
