@@ -166,9 +166,9 @@ export default function About() {
           <div className="icons">
             <div className="mainCO">
               <div className="iconContainer">
-                <img src={"assets/DSA_logo.png"} alt="" />
+                <img src={"assets/DSA_Logo.png"} alt="" />
               </div>
-              <div className="name">GIT</div>
+              <div className="name">Data Structures</div>
             </div>
           </div>
         </div>
