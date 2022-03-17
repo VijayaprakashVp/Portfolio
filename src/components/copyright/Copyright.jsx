@@ -6,7 +6,7 @@ export default function Copyright() {
     <div>
       <div className="copy">
         <p>
-          Created By <span>Vijayaprakash</span>
+          Created By <span>Vijayaprakash (>‿◠)✌ </span>
         </p>
       </div>
     </div>
