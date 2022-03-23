@@ -108,7 +108,7 @@ export default function Projects() {
           <p>HTML5 , CSS3 , Javascript(ES6) </p>
           <div className="card_btn">
             <button>
-              <a target="_blank" href="#">
+              <a target="_blank" href="https://kohls.vercel.app/">
                 DEMO
               </a>
             </button>
