@@ -70,7 +70,7 @@ export default function Projects() {
           <p>HTML5 , CSS3 , JavaScript , MongoDb , Mongoose , Express.js</p>
           <div className="card_btn">
             <button>
-              <a target="_blank" href="#">
+              <a target="_blank" href="https://aadityaneve.github.io/Clone-Pluralsight">
                 DEMO
               </a>
             </button>
