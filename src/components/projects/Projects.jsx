@@ -31,7 +31,7 @@ export default function Projects() {
           </p>
           <div className="card_btn">
             <button>
-              <a target="_blank" href="#">
+              <a target="_blank" href="https://tomtop-clone-zeta.vercel.app/">
                 DEMO
               </a>
             </button>
