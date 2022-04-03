@@ -43,7 +43,7 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
             <div
               className="itemContainer"
               onClick={() =>
-                window.open("assets/Vijayaprakash_Resume.pdf", "_blank")
+                window.open("assets/Vijayaprakash Resume.pdf", "_blank")
               }
             >
               <span style={{ display: "flex" }}>
