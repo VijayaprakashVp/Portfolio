@@ -89,33 +89,33 @@ export default function Projects() {
 
       <div className="pcards">
         <div className="pimg">
-          <img src={"assets/Kohls_Clone.png"} alt="" />
+          <img src={"assets/Cricbuzz.png"} alt="" />
         </div>
         <div className="pinf">
-          <h3>Kohl's (Clone)</h3>
-          <p>We had to clone the Kohls.com, which is e-commerce website.</p>
+          <h3>Cricbuzz (Clone)</h3>
+          <p>Cricbuzz is an Indian cricket news website, It features, news, articles and live coverage of cricket matches including videos, text commentary, player stats and team rankings.</p>
 
           <div className="features">
             <h3>Feature</h3>
             <ul>
-              <li>Product page having sorting function</li>
-              <li>Product details page having addto cart funtionality</li>
-              <li> Shopping cart</li>
+              <li>Sign-in / Sign-up and Fully functional NavBar.</li>
+              <li>Live Scores / Scheduled / Upcoming Matches.</li>
+              <li>Player Ranking and details.</li>
             </ul>
           </div>
 
           <h4>Tech Stack</h4>
-          <p>HTML5 , CSS3 , Javascript(ES6) </p>
+          <p>HTML5 , CSS3 , Javascript(ES6) , MongoDB , React , React-Reudx , Express JS , Mongoose , Material UI </p>
           <div className="card_btn">
             <button>
-              <a target="_blank" href="https://kohls.vercel.app/">
+              <a target="_blank" href="https://newcricbuzzcb.netlify.app/">
                 DEMO
               </a>
             </button>
             <button>
               <a
                 target="_blank"
-                href="https://github.com/VijayaprakashVp/Kohls"
+                href="https://github.com/VijayaprakashVp/cricbuzz"
               >
                 {" "}
                 CODE
@@ -124,24 +124,6 @@ export default function Projects() {
           </div>
         </div>
       </div>
-
-      {/* <div className="pcards">
-        <div className="pimg">
-          <img src={"assets/indeed1.png"} alt="" />
-        </div>
-        <div className="pinf">
-          <h3>Indeed(clone)</h3>
-          <p>
-            A clone of online Job search platform which provides a number of job opportunities for the jobseekers.
-          </p>
-          <h4>Tech Stack</h4>
-          <p>React . Material-UI . Bootstrap . Styled-Components</p>
-          <div className="card_btn">
-            <button><a target="_blank" href="https://clone-of-indeed.netlify.app/">DEMO</a></button>
-            <button><a target="_blank" href="https://github.com/sheikhtausif/IndeedClone"> CODE</a></button>
-          </div>
-        </div>
-          </div> */}
     </div>
   );
 }
