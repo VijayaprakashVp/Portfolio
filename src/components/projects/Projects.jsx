@@ -6,6 +6,44 @@ export default function Projects() {
     <div className="projects" id="projects">
       <h1>Projects</h1>
       <div className="line"></div>
+    
+    <div className="pcards">
+        <div className="pimg">
+          <img src={"assets/CricBuzz_Index.png"} alt="" />
+        </div>
+        <div className="pinf">
+          <h3>Cricbuzz (Clone)</h3>
+          <p>Cricbuzz is an Indian cricket news website, It features, news, articles and live coverage of cricket matches including videos, text commentary, player stats and team rankings.</p>
+
+          <div className="features">
+            <h3>Feature</h3>
+            <ul>
+              <li>Sign-in / Sign-up and Fully functional NavBar.</li>
+              <li>Live Scores / Scheduled / Upcoming Matches.</li>
+              <li>Player Ranking and details.</li>
+            </ul>
+          </div>
+
+          <h4>Tech Stack</h4>
+          <p>HTML5 , CSS3 , Javascript(ES6) , MongoDB , React , React-Reudx , Express JS , Mongoose , Material UI </p>
+          <div className="card_btn">
+            <button>
+              <a target="_blank" href="https://newcricbuzzcb.netlify.app/">
+                DEMO
+              </a>
+            </button>
+            <button>
+              <a
+                target="_blank"
+                href="https://github.com/VijayaprakashVp/cricbuzz"
+              >
+                {" "}
+                CODE
+              </a>
+            </button>
+          </div>
+        </div>
+    
       <div className="pcards">
         <div className="pimg">
           <img src={"assets/Tomtop_Clone.png"} alt="" />
@@ -87,42 +125,8 @@ export default function Projects() {
         </div>
       </div>
 
-      <div className="pcards">
-        <div className="pimg">
-          <img src={"assets/Cricbuzz.png"} alt="" />
-        </div>
-        <div className="pinf">
-          <h3>Cricbuzz (Clone)</h3>
-          <p>Cricbuzz is an Indian cricket news website, It features, news, articles and live coverage of cricket matches including videos, text commentary, player stats and team rankings.</p>
+      
 
-          <div className="features">
-            <h3>Feature</h3>
-            <ul>
-              <li>Sign-in / Sign-up and Fully functional NavBar.</li>
-              <li>Live Scores / Scheduled / Upcoming Matches.</li>
-              <li>Player Ranking and details.</li>
-            </ul>
-          </div>
-
-          <h4>Tech Stack</h4>
-          <p>HTML5 , CSS3 , Javascript(ES6) , MongoDB , React , React-Reudx , Express JS , Mongoose , Material UI </p>
-          <div className="card_btn">
-            <button>
-              <a target="_blank" href="https://newcricbuzzcb.netlify.app/">
-                DEMO
-              </a>
-            </button>
-            <button>
-              <a
-                target="_blank"
-                href="https://github.com/VijayaprakashVp/cricbuzz"
-              >
-                {" "}
-                CODE
-              </a>
-            </button>
-          </div>
-        </div>
       </div>
     </div>
   );
