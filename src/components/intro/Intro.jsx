@@ -42,7 +42,7 @@ export default function Intro() {
           <button
             className="btn"
             onClick={() =>
-              window.open("assets/Vijayaprakash_Resume.pdf", "_blank")
+              window.open("assets/Vijayaprakash Resume.pdf", "_blank")
             }
           >
             <span>
