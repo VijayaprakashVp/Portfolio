@@ -108,7 +108,7 @@ export default function Projects() {
         </div>
         <div className="pinf">
           {/* <div className="pinfone"> */}
-          <h3>Tomtop.com(clone)</h3>
+          <h3>Tomtop.com (clone)</h3>
           <p>
             I've cloned a Tomtop.com, which is an online e-commerce website.
           </p>
