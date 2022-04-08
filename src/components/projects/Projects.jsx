@@ -15,7 +15,7 @@ export default function Projects() {
         <div className="pinf">
           {/* <div className="pinfone"> */}
           <h3>Tomtop.com(clone)</h3>
-          <p>We had to clone a Tomtop.com, which is e-commerce website.</p>
+          <p>I've cloned a Tomtop.com, which is an online e-commerce website.</p>
 
           <div className="features">
             <h3>Feature</h3>
@@ -96,7 +96,7 @@ export default function Projects() {
         </div>
         <div className="pinf">
           <h3>Cricbuzz (Clone)</h3>
-          <p>Cricbuzz is an Indian cricket news website, It features, news, articles and live coverage of cricket matches including videos, text commentary, player stats and team rankings.</p>
+          <p> We've cloned a Cricbuzz is an Indian cricket news website, It features, news, articles and live coverage of cricket matches including videos, text commentary, player stats and team rankings.</p>
 
           <div className="features">
             <h3>Feature</h3>
