@@ -14,7 +14,7 @@ export default function Contact() {
           <div className="parag">
             <h2>Text me Hi,</h2>
             <p className="par_welcome" style={{ letterSpacing: ".5px" }}>
-              I always Welcomes you to discuss about My/Your projects and have a
+              I always Welcome you to discuss about My/Your projects and have a
               conversation about new Initiative.
             </p>
 
