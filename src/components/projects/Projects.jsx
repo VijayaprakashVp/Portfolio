@@ -71,13 +71,13 @@ export default function Projects() {
           <div className="features">
             <h3>Feature</h3>
             <ul>
-              <li>Product details getting from backend</li>
-              <li>checking login credential using mangodb </li>
+              <li>Product details getting from API</li>
+              <li>User can Signup / Login</li>
             </ul>
           </div>
 
           <h4>Tech Stack</h4>
-          <p>HTML5 , CSS3 , JavaScript , MongoDb , Mongoose , Express.js</p>
+          <p>HTML5 , CSS3 , JavaScript ES6</p>
           <div className="card_btn">
             <button>
               <a
