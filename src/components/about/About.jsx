@@ -101,14 +101,14 @@ export default function About() {
             </div>
           </div>
 
-          <div className="icons">
-            <div className="mainCO">
-              <div className="iconContainer">
-                <img src={"assets/npm.png"} alt="" />
-              </div>
-              <div className="name">NPM</div>
-            </div>
-          </div>
+//           <div className="icons">
+//             <div className="mainCO">
+//               <div className="iconContainer">
+//                 <img src={"assets/npm.png"} alt="" />
+//               </div>
+//               <div className="name">NPM</div>
+//             </div>
+//           </div>
 
           <div className="icons">
             <div className="mainCO">
